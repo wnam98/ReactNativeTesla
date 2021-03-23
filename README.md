@@ -1,2 +1,2 @@
 # ReactNativeTesla
-iOS Tesla app with ReactNative
+iOS App with Tesla landing page 
