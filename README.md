@@ -1,2 +1,4 @@
 # ReactNativeTesla
-iOS App with Tesla landing page 
+
+iOS App with Tesla landing page frontend in reactnative. 
+
